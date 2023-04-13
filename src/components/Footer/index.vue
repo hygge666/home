@@ -3,7 +3,7 @@
     <div class="power" v-show="!store.playerState">
       <span
         >Copyright&nbsp;&copy;&nbsp;{{ fullYear }}
-        <a href="https://imsyy.top">無名</a>
+        <a href="https://lxyq.xyz">小白</a>
       </span>
       <!-- 以下信息请不要修改哦 -->
       <span class="hidden"
@@ -15,8 +15,8 @@
         </a></span
       >&nbsp;&amp;
       <!-- 站点备案 -->
-      <a href="https://beian.miit.gov.cn" target="_blank"
-        >豫ICP备2022018134号-1</a
+      <a href="https://www.baidu.com" target="_blank"
+        >赣JCU备20210901213号-1</a
       >
     </div>
     <div class="lrc" v-show="store.playerState">
