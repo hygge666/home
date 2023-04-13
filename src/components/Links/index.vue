@@ -46,32 +46,32 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://www.lxyq.xyz",
   },
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.imsyy.top/",
+    link: "http://lixinyuanqi.ysepan.com/",
   },
   {
     icon: CompactDisc,
-    name: "音乐",
-    link: "https://music.imsyy.top/",
+    name: "学习",
+    link: "https://xydh.fun/lovezy",
   },
   {
     icon: Compass,
     name: "起始页",
-    link: "https://nav.imsyy.top/",
+    link: "https://link3.cc/huangyong",
   },
   {
     icon: Book,
     name: "网址集",
-    link: "https://web.imsyy.top/",
+    link: "https://xydh.fun/luyaozhimali",
   },
   {
     icon: Fire,
     name: "今日热榜",
-    link: "https://hot.imsyy.top/",
+    link: "https://tophub.today/",
   },
 ];
 
