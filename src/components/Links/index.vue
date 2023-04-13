@@ -70,8 +70,8 @@ let linksData = [
   },
   {
     icon: Fire,
-    name: "今日热榜",
-    link: "https://tophub.today/",
+    name: "自习室",
+    link: "https://xydh.fun/hystart123",
   },
 ];
 
