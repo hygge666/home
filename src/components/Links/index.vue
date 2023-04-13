@@ -66,12 +66,12 @@ let linksData = [
   {
     icon: Book,
     name: "网址集",
-    link: "https://xydh.fun/luyaozhimali",
+    link: "https://github.com/hygge666/nav-hylove/blob/main/%E4%BC%98%E8%81%9A%E9%9B%86-%E7%BD%91%E5%9D%80%E6%94%B6%E8%97%8F466%E4%B8%AA%EF%BC%88%E5%B7%B2%E6%8E%92%E7%89%88%EF%BC%89.md",
   },
   {
     icon: Fire,
     name: "自习室",
-    link: "https://xydh.fun/hystart123",
+    link: "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E4%B8%8B&from_source=webtop_search&spm_id_from=333.1007&search_source=2",
   },
 ];
 
