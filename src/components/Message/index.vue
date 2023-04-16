@@ -3,7 +3,7 @@
   <div class="message">
     <!-- Logo -->
     <div class="logo">
-      <img class="logo-img"href=https://s1.vika.cn/space/2023/04/05/4e5166cffb5647a4b382bf3c8d4f96aa alt="logo" />
+      <img class="logo-img": https://s1.vika.cn/space/2023/04/05/4e5166cffb5647a4b382bf3c8d4f96aa alt="logo" />
       <div class="name text-hidden">
         <span class="bg">{{ siteUrl[0] }}</span>
         <span class="sm">.{{ siteUrl[1] }}</span>
