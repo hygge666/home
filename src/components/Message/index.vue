@@ -3,7 +3,7 @@
   <div class="message">
     <!-- Logo -->
     <div class="logo">
-      <img class="logo-img" src="https://img01.anzhiy.cn/useruploads/156/2023/05/04/64537b1db9a27.jpg" alt="logo" />
+      <img class="logo-img" src="https://img01.anheyu.com/useruploads/156/2023/05/04/64537b1db9a27.jpg" alt="logo" />
       <div class="name text-hidden">
         <span class="bg">{{ siteUrl[0] }}</span>
         <span class="sm">.{{ siteUrl[1] }}</span>
